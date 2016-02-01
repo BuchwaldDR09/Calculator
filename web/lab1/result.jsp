@@ -29,9 +29,7 @@
                     <ul class="nav nav-pills">
                         <li class="active"><a href="../index.html">Home <span class="sr-only">(current)</span></a></li>
 
-                        <li><a href="../lab1/form.jsp">Lab1</a></li>
-                        <li><a href="../lab2/form.jsp">Lab2</a></li>
-                        <li><a href="../lab3/form.jsp">Lab3</a></li>
+                        
 
                     </ul>
                 </div>
